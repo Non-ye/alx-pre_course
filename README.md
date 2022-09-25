@@ -1,1 +1,1 @@
-My first readme
+Was able to do task 3 well at last
